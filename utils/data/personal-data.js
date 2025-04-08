@@ -7,11 +7,7 @@ export const personalData = {
   phone: '+919303483925',
   address: 'Siwan, Bihar, India ',
   github: 'https://github.com/zeeshanraza11',
-  // facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/1zeeshanraza',
-  // twitter: 'https://twitter.com/said7388',
-  // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/u/zeeshanraza/",
-  // devUsername: "said7388",
   resume: "https://drive.google.com/file/d/16v4WCJzyBfyAH7TPR6zbAyUaW07JO8vh/view?usp=sharing"
 }

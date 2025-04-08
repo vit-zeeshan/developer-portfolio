@@ -12,7 +12,7 @@ export const experiences = [
   //   duration: "(Jun 2021 - Jan 2022)"
   // },
   {
-    id: 3,
+    id: 2,
     title: "Self Employed",
     company: "Code and build something in everyday.",
     duration: "(Jan 2020 - Present)"
