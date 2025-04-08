@@ -3,7 +3,7 @@ export const experiences = [
     id: 1,
     title: 'Software Devlopment Engineer',
     company: "VIT Infotech.",
-    duration: "(Jan 2022 - Present)"
+    duration: "(Oct 2024 - Present)"
   },
   // {
   //   id: 2,
